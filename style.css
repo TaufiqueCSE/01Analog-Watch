@@ -80,20 +80,20 @@ body{
     transform-origin: bottom;
 }
 .hour-hand{
-    width: 1%;
+    width: 2%;
     height: 28%;
     top: 22%;
     background-color: rgb(253, 199, 36);
 }
 .min-hand{
     background-color: #3dff4a;
-    width: 1%;
+    width: 1.3%;
     height: 35%;
     top: 15%;
 }
 .sec-hand{
     background-color: #ff6cd1;
-    width: 1%;
+    width: 0.8%;
     height: 40%;
     top: 10%;
 }
